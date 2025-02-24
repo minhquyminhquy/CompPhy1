@@ -1,0 +1,1 @@
+This folder contains my answer for week 2.
